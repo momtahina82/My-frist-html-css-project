@@ -1,0 +1,112 @@
+
+     body{
+
+       font-family: sans-serif;
+       padding: 20px;
+       box-sizing: border-box;  
+       background-image: url('../image/pic2.jpg');
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 100%;
+       background-size: cover;
+       background-position: center;
+
+
+    }
+    h1{
+  
+      margin-left: 500px;
+      margin-right: 500px;
+      background-color:#987654;
+       padding: 20px;
+      width: 200px;
+      height: 30px;
+      color: black;
+      text-align:  center;
+      
+    }
+    h2{
+      margin-left: 400px;
+      margin-right: 400px;
+      padding: 20px;
+      background-color:#987654;
+      width: 400px;
+      height: 20px;
+      color: black;
+      text-align:  center;
+      font-family:Roboto;
+  font-weight:bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+      
+    }
+    .class1{
+      font-size: 30px;
+  
+    }
+
+        
+        img{
+          width: 400px;
+          height: 300px;
+          border-radius: 20px;
+          border-color: brown;
+        
+        }
+        .textleft{
+
+          text-align: left;
+          margin-left: 100px;
+          margin-right: 10px;
+          margin-top:5px;
+          margin-bottom: 5px;
+          font-size: 25px;
+          background-color: #edc9af ;
+
+        }
+        .classright{
+           float: right;
+
+
+        }
+        .classleft{
+          float: left;
+        }
+        fieldset{
+          border: 0px;
+          color: black;
+          position : relative;
+          width: 600px;
+          height: 300px;
+
+        }
+
+        .text1 {
+          font-size: 25px;
+          background-color: #edc9af ;
+        }
+        hr {
+              height: 2px;
+              background-color: brown;
+               border-color: brown;
+}
+li{
+  background: ;
+  height: 20px;
+  width: 110px;
+
+}
+
+
+.thank{
+
+  text-align: center;
+  font-size: 40px;
+
+}
+
+
+       
+
+
+
